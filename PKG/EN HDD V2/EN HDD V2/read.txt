@@ -1,0 +1,15 @@
+they are hidden:
+
+Estan ocultios:
+
+AUTORUN.INF
+
+offline_update.cfg
+
+PSLogo.ico
+
+There are updates that are not installed,
+for that first install the update and then the game.
+
+hay actualizaciones que no se instalan,
+para eso instala primero el update y despues el juego.
